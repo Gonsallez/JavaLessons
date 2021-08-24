@@ -10,6 +10,13 @@ public class material2 {
 
         public static void main(String[] args) {
             table(10,10);
+            String s = (2 + 2) + " = value";
+            System.out.println(s);
+            String str= "Java";
+            System.out.println(str.charAt(2));
+            String a = "java";
+            a.toUpperCase();
+            System.out.println(a);
 
 //        int valueInMethod = 998;
 //
